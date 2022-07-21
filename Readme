@@ -1,0 +1,8 @@
+1: yarn create next-app -e with-tailwindcss client
+2: Creaet schema
+3: sanity start
+4: yarn add react-icons719361
+5: npx hardhat
+
+
+
